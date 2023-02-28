@@ -15,6 +15,7 @@ Lua的语法和其他编程语言相比较简单，学习起来不会太过困�
 [1.跨入门槛](https://github.com/soryecker/LuaLearningJourney/blob/main/%5Blua%5D1.%E8%B7%A8%E5%85%A5%E9%97%A8%E6%A7%9B.md)
 - [1.1.协程旅行](https://github.com/soryecker/LuaLearningJourney/blob/main/%5Blua%5D1.1.%E5%8D%8F%E7%A8%8B%E6%97%85%E8%A1%8C.md)
 - [1.2.编码的烦恼](https://github.com/soryecker/LuaLearningJourney/blob/main/%5Blua%5D1.2.%E7%BC%96%E7%A0%81%E7%9A%84%E7%83%A6%E6%81%BC.md)
+
 [2.遇见语句](https://github.com/soryecker/LuaLearningJourney/blob/main/%5Blua%5D2.%E9%81%87%E8%A7%81%E8%AF%AD%E5%8F%A5.MD)
 
 
